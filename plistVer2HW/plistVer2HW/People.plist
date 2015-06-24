@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FirstName</key>
+		<string>Carl</string>
+		<key>LastName</key>
+		<string>Sagan</string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>MiddleInitial</key>
+		<string></string>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Steven</string>
+		<key>LastName</key>
+		<string>Weinberg</string>
+		<key>MiddleInitial</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleName</key>
+		<string>Clinton</string>
+		<key>FirstName</key>
+		<string>Richard</string>
+		<key>LastName</key>
+		<string>Dawkins</string>
+		<key>MiddleInitial</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>MiddleName</key>
+		<string></string>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>FirstName</key>
+		<string>James</string>
+		<key>LastName</key>
+		<string>Watson</string>
+		<key>MiddleInitial</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string>J</string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Victor</string>
+		<key>LastName</key>
+		<string>Stenger</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string></string>
+		<key>MiddleName</key>
+		<string>DeGrasse</string>
+		<key>LastName</key>
+		<string>Tyson</string>
+		<key>FirstName</key>
+		<string>Neil</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string>P</string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Feynman</string>
+		<key>LastName</key>
+		<string>Richard</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string>H</string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Richard</string>
+		<key>LastName</key>
+		<string>Woolley</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string></string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Erwin</string>
+		<key>LastName</key>
+		<string>Schrodinger</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sane Scientist</string>
+		<key>MiddleInitial</key>
+		<string></string>
+		<key>MiddleName</key>
+		<string></string>
+		<key>FirstName</key>
+		<string>Francis</string>
+		<key>LastName</key>
+		<string>Crick</string>
+	</dict>
+</array>
+</plist>
